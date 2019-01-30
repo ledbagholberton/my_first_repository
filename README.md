@@ -1,1 +1,1 @@
-File with instructions about git
+File with instructions about git. Now this file changed.
